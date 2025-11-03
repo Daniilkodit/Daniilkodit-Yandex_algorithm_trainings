@@ -29,22 +29,22 @@
   - [x] Домашнее задание 4: [Яндекс.Контест](https://contest.yandex.ru/contest/74968)
 
 # Лекции и задачи тренировки 8.0
-- [x] Лекция 1: «Тестирование и особые случаи. Множества и словари»: 
-    Тестирование: https://youtube.com/live/c67zB3FWLOs
-    Множества и словари: https://youtube.com/live/jQOnYzW8ZOE?feature=share
+- [x] Лекция 1: «Тестирование и особые случаи. Множества и словари»:  
+    Тестирование: [Youtube]https://youtube.com/live/c67zB3FWLOs  
+    Множества и словари: [Youtube]https://youtube.com/live/jQOnYzW8ZOE?feature=share  
    - [x] Домашнее задание 1: [Яндекс.Контест](https://contest.yandex.ru/contest/80939/enter)
 
-- [x] Лекция 2: «Одномерное динамическое программирование. Двумерное динамическое программирование.»:
-    Одномерное динамическое программирование: https://www.youtube.com/watch?v=H7lu6h8H9-4
-    Двумерное динамическое программирование: https://www.youtube.com/live/U8gzm92fprI
+- [x] Лекция 2: «Одномерное динамическое программирование. Двумерное динамическое программирование.»:  
+    Одномерное динамическое программирование: [Youtube]https://www.youtube.com/watch?v=H7lu6h8H9-4  
+    Двумерное динамическое программирование: [Youtube]https://www.youtube.com/live/U8gzm92fprI  
    - [x] Домашнее задание 2: [Яндекс.Контест](https://contest.yandex.ru/contest/80940/enter)
 
-- [x] Лекция 3: «Деревья. Бинарный поиск»:
-    Деревья: https://youtube.com/live/O9ffppQ05-c?feature=share
-    Бинарный поиск: https://youtube.com/live/-B6xvDeGyPg?feature=share
+- [x] Лекция 3: «Деревья. Бинарный поиск»:  
+    Деревья: [Youtube]https://youtube.com/live/O9ffppQ05-c?feature=share  
+    Бинарный поиск: [Youtube]https://youtube.com/live/-B6xvDeGyPg?feature=share  
   - [x] Домашнее задание 3: [Яндекс.Контест](https://contest.yandex.ru/contest/80941/enter)
 
-- [x] Лекция 4: «Префиксные суммы и два указателя. Сортировка событий»:
-    Префиксные суммы и два указателя: https://youtube.com/live/B4uP6igiVNU?feature=share
-    Сортировка событий: https://www.youtube.com/watch?v=hGixDBO-p6Q&t=1s
+- [x] Лекция 4: «Префиксные суммы и два указателя. Сортировка событий»:  
+    Префиксные суммы и два указателя: [Youtube]https://youtube.com/live/B4uP6igiVNU?feature=share  
+    Сортировка событий: [Youtube]https://www.youtube.com/watch?v=hGixDBO-p6Q&t=1s  
   - [x] Домашнее задание 4: [Яндекс.Контест](https://contest.yandex.ru/contest/80942/enter)
